@@ -1,4 +1,4 @@
-# Converter-design-and-simulation
+![Screenshot 2024-03-13 162502](https://github.com/dfghytr/Converter-design-and-simulation/assets/138970628/7a573171-f015-4745-a3f1-ecfe922f2384)# Converter-design-and-simulation
 
 # Aim
 To design and simulate AC to DC converter & DC voltage regulator using proteus.
@@ -100,7 +100,12 @@ The AC power supply from mains first gets converted into and unregulated DC and 
 ![image](https://github.com/anishkumar-Embedded/Converter-design-and-simulation/assets/71547910/0cfd4fc7-1eff-42e3-9806-319bfe174926)
 
 # Output
+## AC to DC Converter
 ![image](https://github.com/dfghytr/Converter-design-and-simulation/assets/138970628/71ec0428-d939-4f31-aa96-ec00d7859d7c)
+## DC to DC voltage regulator
+![Screenshot 2024-03-13 162502](https://github.com/dfghytr/Converter-design-and-simulation/assets/138970628/42b1683f-a7f1-442b-b989-30d11d0eeeab)
+
+
 
 
 
