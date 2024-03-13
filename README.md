@@ -1,5 +1,3 @@
-![Screenshot 2024-03-13 162502](https://github.com/dfghytr/Converter-design-and-simulation/assets/138970628/7a573171-f015-4745-a3f1-ecfe922f2384)# Converter-design-and-simulation
-
 # Aim
 To design and simulate AC to DC converter & DC voltage regulator using proteus.
 
